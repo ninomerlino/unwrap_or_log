@@ -12,5 +12,4 @@ description = "A simple crate adding two functions to all std::resut::Result to 
 log = "0.4.20"
 
 [dev-dependencies]
-lazy_static = "1.4.0"
 simple_logger = "4.3.3"
