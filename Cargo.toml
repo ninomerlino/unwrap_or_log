@@ -13,3 +13,4 @@ log = "0.4.20"
 
 [dev-dependencies]
 simple_logger = "4.3.3"
+thiserror = "1.0.57"
